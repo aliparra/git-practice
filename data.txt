@@ -1,3 +1,4 @@
 Name: Alicia
 Age: 24
 Favourite Color: Yellow
+Favourite Food: Khao pad
